@@ -1,9 +1,9 @@
 ### Gabriela Faleiro 
 
-Atualmente em estou em transição de carreira, migrando para área da TI, através dos cursos da Cesar School!
-Tenho formação em Psicologia e Técnico e Enfermagem, tendo vasta experiência em ambas as áreas.
+Atualmente em estou em transição de carreira, migrando para área da TI através dos cursos da Cesar School!
+Tenho formação em Psicologia e Técnico e Enfermagem.
 
-O que me motivou a migrar de carreira foi a mudança com minha família para o Canadá, onde atualmente moramos em Toronto, além do grande incentivo do meu esposo que trabalha na área de TI 
+O que me motivou a migrar de carreira foi a mudança com minha família para o Canadá, atualmente moramos em Toronto, além do grande incentivo do meu esposo que trabalha há 10 anos na área de TI 
 e vem despertando em mim cada vez mais vontade de aprender e trabalhar na área de programação.
 
 <!--
